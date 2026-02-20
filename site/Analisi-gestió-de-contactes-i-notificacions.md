@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Analisi gestió de contactes i notificacions
 author: Joan Sanz
 creator: Àrea TIC del Departament d’Empresa i Treball

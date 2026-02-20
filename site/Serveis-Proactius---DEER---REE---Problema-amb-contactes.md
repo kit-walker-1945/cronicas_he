@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Serveis Proactius - DEER - REE - Problema amb contactes
 author: Joan Sanz
 creator: Àrea TIC del Departament d’Empresa i Treball
