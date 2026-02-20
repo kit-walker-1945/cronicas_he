@@ -1,0 +1,111 @@
+{
+  "title": {
+    "text": {
+      "headline": "Cronología de la Dinastía del Fantasma",
+      "text": "Relato de los hitos y aventuras de 'El Espíritu que Camina' desde su origen en 1536 hasta el portador actual."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": "1536",
+        "month": "2",
+        "day": "17"
+      },
+      "text": {
+        "headline": "El Primer Juramento",
+        "text": "Tras el asesinato de su padre por los piratas Singh, Kit Walker jura sobre la calavera dedicar su vida a la lucha contra la piratería, la crueldad y la injusticia."
+      }
+    },
+    {
+      "start_date": {
+        "year": "1541"
+      },
+      "text": {
+        "headline": "El Anillo de la Calavera",
+        "text": "El sabio Paracelsus entrega al primer Fantasma el anillo con la marca de la calavera, que perteneció originalmente a Nerón."
+      }
+    },
+    {
+      "start_date": {
+        "year": "1566"
+      },
+      "text": {
+        "headline": "Sucesión del 2º Fantasma",
+        "text": "Kit Walker II asume el mando tras la muerte del primero a causa de las heridas sufridas en la batalla de Malta."
+      }
+    },
+    {
+      "start_date": {
+        "year": "1612"
+      },
+      "text": {
+        "headline": "Destrucción de Scorpia",
+        "text": "El 3er Fantasma ataca y destruye la fortaleza de la banda pirata Alacrán (Scorpia)."
+      }
+    },
+    {
+      "start_date": {
+        "year": "1664"
+      },
+      "text": {
+        "headline": "Fundación de la Patrulla de la Selva",
+        "text": "El 6º Fantasma crea la Patrulla de la Selva tras vencer al pirata Barbarroja, a quien nombra su primer Coronel."
+      }
+    },
+    {
+      "start_date": {
+        "year": "1685"
+      },
+      "text": {
+        "headline": "El Pico del Fantasma",
+        "text": "En agradecimiento por su amistad, el Emperador Joonkar encarga a un discípulo de Miguel Ángel esculpir el rostro del Fantasma en una montaña."
+      }
+    },
+    {
+      "start_date": {
+        "year": "1757"
+      },
+      "text": {
+        "headline": "El Fantasma que murió dos veces",
+        "text": "El 11º Fantasma asume el mando mientras su padre, el 10º, continúa activo tras ser desfigurado y perder un brazo en combate."
+      }
+    },
+    {
+      "start_date": {
+        "year": "1831"
+      },
+      "text": {
+        "headline": "El Comandante Desconocido",
+        "text": "El 15º Fantasma establece que el Comandante Supremo de la Patrulla de la Selva sea secreto para proteger la organización tras el asesinato de su padre."
+      }
+    },
+    {
+      "start_date": {
+        "year": "1848"
+      },
+      "text": {
+        "headline": "The Phantom Cowboy",
+        "text": "El 16º Fantasma viaja a Texas para cumplir una misión de justicia, donde se le conoce como el 'Fantasma Cowboy'."
+      }
+    },
+    {
+      "start_date": {
+        "year": "1869"
+      },
+      "text": {
+        "headline": "La Mujer Enmascarada",
+        "text": "Julia Walker sustituye a su hermano gemelo herido (el 17º), convirtiéndose temporalmente en la Mujer Enmascarada."
+      }
+    },
+    {
+      "start_date": {
+        "year": "1959"
+      },
+      "text": {
+        "headline": "El 21er Fantasma",
+        "text": "El actual Kit Walker asume el manto tras regresar de sus estudios en EE.UU. al ser avisado del asesinato de su padre por Rama Singh."
+      }
+    }
+  ]
+}
