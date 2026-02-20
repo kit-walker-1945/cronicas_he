@@ -6,3 +6,6 @@ url: https://kit-walker-1945.github.io/cronicas_he
 
 aux_links:
   Template Repository: https://github.com/kit-walker-1945/cronicas_he
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
