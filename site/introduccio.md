@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Como se escribió
+nav_order: 0
 ---
 
 # Introducción a las Crónicas del Hombre Enmascarado
