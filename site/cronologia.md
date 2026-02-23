@@ -1,6 +1,7 @@
 ---
 layout: default
-title: timeline
+title: Cronología
+nav_order: 30
 ---
 
 # Timeline

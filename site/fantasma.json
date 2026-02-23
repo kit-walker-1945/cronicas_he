@@ -1,111 +1,224 @@
 {
-  "title": {
-    "text": {
-      "headline": "Cronología de la Dinastía del Fantasma",
-      "text": "Relato de los hitos y aventuras de 'El Espíritu que Camina' desde su origen en 1536 hasta el portador actual."
-    }
-  },
-  "events": [
-    {
-      "start_date": {
-        "year": "1536",
-        "month": "2",
-        "day": "17"
-      },
-      "text": {
-        "headline": "El Primer Juramento",
-        "text": "Tras el asesinato de su padre por los piratas Singh, Kit Walker jura sobre la calavera dedicar su vida a la lucha contra la piratería, la crueldad y la injusticia."
+   "title":{
+      "text":{
+         "headline":"Crónicas de la Dinastía: Fantasmas XV, XVI y XVII",
+         "text":"Línea de tiempo detallada de las efemérides y aventuras de tres generaciones de 'El Espíritu que Camina' (1831 - 1889)."
       }
-    },
-    {
-      "start_date": {
-        "year": "1541"
+   },
+   "eras":[
+      {
+         "start_date":{
+            "year":"1831"
+         },
+         "end_date":{
+            "year":"1848"
+         },
+         "text":{
+            "headline":"Tomo XV: El Comandante Desconocido",
+            "text":"Periodo marcado por la reestructuración de la Patrulla de la Selva y el establecimiento del mando secreto."
+         }
       },
-      "text": {
-        "headline": "El Anillo de la Calavera",
-        "text": "El sabio Paracelsus entrega al primer Fantasma el anillo con la marca de la calavera, que perteneció originalmente a Nerón."
-      }
-    },
-    {
-      "start_date": {
-        "year": "1566"
+      {
+         "start_date":{
+            "year":"1848"
+         },
+         "end_date":{
+            "year":"1869"
+         },
+         "text":{
+            "headline":"Tomo XVI: The Phantom Cowboy",
+            "text":"La era del Fantasma que llevó la justicia de la selva a las llanuras del Lejano Oeste."
+         }
       },
-      "text": {
-        "headline": "Sucesión del 2º Fantasma",
-        "text": "Kit Walker II asume el mando tras la muerte del primero a causa de las heridas sufridas en la batalla de Malta."
+      {
+         "start_date":{
+            "year":"1869"
+         },
+         "end_date":{
+            "year":"1889"
+         },
+         "text":{
+            "headline":"Tomo XVII: El Guardián de Oriente y Europa",
+            "text":"Un tiempo de aventuras internacionales, desde la niebla de Londres hasta las tribus que viven en los árboles."
+         }
       }
-    },
-    {
-      "start_date": {
-        "year": "1612"
+   ],
+   "events":[
+      {
+         "group":"África",
+         "start_date":{
+            "year":"1831",
+            "month":"3"
+         },
+         "text":{
+            "headline":"Establecimiento del Comandante Secreto",
+            "text":"El 15º Fantasma decreta que el mando de la Patrulla sea anónimo para evitar infiltraciones de los Singh."
+         }
       },
-      "text": {
-        "headline": "Destrucción de Scorpia",
-        "text": "El 3er Fantasma ataca y destruye la fortaleza de la banda pirata Alacrán (Scorpia)."
-      }
-    },
-    {
-      "start_date": {
-        "year": "1664"
+      {
+         "group":"América del Norte",
+         "start_date":{
+            "year":"1832"
+         },
+         "text":{
+            "headline":"Justicia en México",
+            "text":"El 15º Fantasma ayuda a los rebeldes mexicanos a derrocar a un militar tiránico en su provincia."
+         }
       },
-      "text": {
-        "headline": "Fundación de la Patrulla de la Selva",
-        "text": "El 6º Fantasma crea la Patrulla de la Selva tras vencer al pirata Barbarroja, a quien nombra su primer Coronel."
-      }
-    },
-    {
-      "start_date": {
-        "year": "1685"
+      {
+         "group":"África",
+         "start_date":{
+            "year":"1840"
+         },
+         "text":{
+            "headline":"Primeras Olimpiadas de la Selva",
+            "text":"Fundadas por el 15º Fantasma en territorio Llongo para dirimir conflictos tribales mediante el deporte."
+         }
       },
-      "text": {
-        "headline": "El Pico del Fantasma",
-        "text": "En agradecimiento por su amistad, el Emperador Joonkar encarga a un discípulo de Miguel Ángel esculpir el rostro del Fantasma en una montaña."
-      }
-    },
-    {
-      "start_date": {
-        "year": "1757"
+      {
+         "group":"Asia",
+         "start_date":{
+            "year":"1840"
+         },
+         "text":{
+            "headline":"Destrucción de la Secta Thug",
+            "text":"Relato de la lucha en la India contra los adoradores de Kali que estrangulaban viajeros con lazos de seda."
+         }
       },
-      "text": {
-        "headline": "El Fantasma que murió dos veces",
-        "text": "El 11º Fantasma asume el mando mientras su padre, el 10º, continúa activo tras ser desfigurado y perder un brazo en combate."
-      }
-    },
-    {
-      "start_date": {
-        "year": "1831"
+      {
+         "group":"África",
+         "start_date":{
+            "year":"1848",
+            "month":"3"
+         },
+         "text":{
+            "headline":"El Eastern Dawn",
+            "text":"Relato de la historia de Asta Jensen. El 16º Fantasma rescata a la mujer de una tripulación traidora en la costa de Bengala."
+         }
       },
-      "text": {
-        "headline": "El Comandante Desconocido",
-        "text": "El 15º Fantasma establece que el Comandante Supremo de la Patrulla de la Selva sea secreto para proteger la organización tras el asesinato de su padre."
-      }
-    },
-    {
-      "start_date": {
-        "year": "1848"
+      {
+         "group":"América del Norte",
+         "start_date":{
+            "year":"1848",
+            "month":"12"
+         },
+         "text":{
+            "headline":"The Phantom Cowboy",
+            "text":"Relato de la historia de Annie Morgan. El 16º Fantasma viaja a Texas para llevar a un ganadero ante la justicia africana."
+         }
       },
-      "text": {
-        "headline": "The Phantom Cowboy",
-        "text": "El 16º Fantasma viaja a Texas para cumplir una misión de justicia, donde se le conoce como el 'Fantasma Cowboy'."
-      }
-    },
-    {
-      "start_date": {
-        "year": "1869"
+      {
+         "group":"África",
+         "start_date":{
+            "year":"1856",
+            "month":"8",
+            "day":"12"
+         },
+         "text":{
+            "headline":"La Marca de Caryle",
+            "text":"El 16º Fantasma otorga la 'Buena Marca' al cazador Caryle tras salvarlo de una emboscada de bandidos."
+         }
       },
-      "text": {
-        "headline": "La Mujer Enmascarada",
-        "text": "Julia Walker sustituye a su hermano gemelo herido (el 17º), convirtiéndose temporalmente en la Mujer Enmascarada."
-      }
-    },
-    {
-      "start_date": {
-        "year": "1959"
+      {
+         "group":"África",
+         "start_date":{
+            "year":"1864",
+            "month":"6"
+         },
+         "text":{
+            "headline":"El Culto del Pájaro Gandor",
+            "text":"Ataque y destrucción del santuario de un culto sangriento que sembraba el terror en la selva profunda."
+         }
       },
-      "text": {
-        "headline": "El 21er Fantasma",
-        "text": "El actual Kit Walker asume el manto tras regresar de sus estudios en EE.UU. al ser avisado del asesinato de su padre por Rama Singh."
+      {
+         "group":"América del Norte",
+         "start_date":{
+            "year":"1866"
+         },
+         "text":{
+            "headline":"El Tesoro de los Aztecas",
+            "text":"Relato de la aventura en México, donde el 16º Fantasma sella una pirámide en Tula para ocultar un tesoro incalculable."
+         }
+      },
+      {
+         "group":"Asia",
+         "start_date":{
+            "year":"1867"
+         },
+         "text":{
+            "headline":"Enfrentamiento en Sumatra",
+            "text":"Ataque a una nave de la Cofradía Singh. El 16º Fantasma advierte: 'El Hombre Enmascarado solo avisa una vez'."
+         }
+      },
+      {
+         "group":"África",
+         "start_date":{
+            "year":"1868"
+         },
+         "text":{
+            "headline":"Justicia en el Ferrocarril",
+            "text":"El 16º Fantasma obliga a los constructores de la línea de Bengala a pagar salarios justos y cesar la esclavitud."
+         }
+      },
+      {
+         "group":"África",
+         "start_date":{
+            "year":"1869"
+         },
+         "text":{
+            "headline":"La Mujer Enmascarada",
+            "text":"Relato de la historia de Julia. La hermana gemela del 17º Fantasma asume su identidad para rescatar a un médico del río."
+         }
+      },
+      {
+         "group":"América del Norte",
+         "start_date":{
+            "year":"1870"
+         },
+         "text":{
+            "headline":"Mesa Walker y Búfalo Bill",
+            "text":"El 17º Fantasma colabora con Búfalo Bill para alimentar a los Kiowa y construye un elevador en Mesa Walker."
+         }
+      },
+      {
+         "group":"Europa",
+         "start_date":{
+            "year":"1875"
+         },
+         "text":{
+            "headline":"Los Buitres de Carpatia",
+            "text":"Lucha contra la secta de los Buitres en el Castillo de Vacul, estableciendo una base del Fantasma en Europa."
+         }
+      },
+      {
+         "group":"Europa",
+         "start_date":{
+            "year":"1881"
+         },
+         "text":{
+            "headline":"Jack el Destripador",
+            "text":"El 17º Fantasma persigue una pista errónea sobre el asesino en los barrios bajos de Londres."
+         }
+      },
+      {
+         "group":"Europa",
+         "start_date":{
+            "year":"1887"
+         },
+         "text":{
+            "headline":"Misión en el Orient Express",
+            "text":"Protección de la princesa Soraya de Turquía contra los atentados de los Buitres durante el trayecto ferroviario."
+         }
+      },
+      {
+         "group":"África",
+         "start_date":{
+            "year":"1888"
+         },
+         "text":{
+            "headline":"La Tribu de los Lazos",
+            "text":"Relato de los Lazonis. El 17º Fantasma supera cuatro pruebas para ser aceptado por la tribu que vive en los árboles."
+         }
       }
-    }
-  ]
+   ]
 }
