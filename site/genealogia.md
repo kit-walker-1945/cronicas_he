@@ -6,10 +6,12 @@ nav_order: 31
 
 # Genealogia
 
-<div id="FamilyChart" class="f3" style="width:100%;height:900px;margin:auto;background-color:rgb(33,33,33);color:#fff;"></div>
+
 <script src="https://unpkg.com/d3@7"></script>
 <script type="module" src="https://unpkg.com/family-chart@0.9.0"></script>
 <link rel="stylesheet" href="https://unpkg.com/family-chart@0.9.0/dist/styles/family-chart.css">
+
+<div id="FamilyChart" class="f3" style="width:100%;height:900px;margin:auto;background-color:rgb(33,33,33);color:#fff;"></div>
 <script type="module">
 
 function create(data) {
