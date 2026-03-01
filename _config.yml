@@ -10,6 +10,3 @@ aux_links:
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
 
-# Set a path/url to a favicon that will be displayed by the browser
-favicon_ico: "skull_icon_234796.ico"
-
