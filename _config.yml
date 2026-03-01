@@ -1,5 +1,5 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Las Crónicas del Hombre Enmascarado
+description: El Juramento de la Calavera: "Juro dedicar mi vida a la lucha contra la piratería, la crueldad y la injusticia y pido que mis hijos y los hijos de mis hijos hagan lo mismo"
 theme: just-the-docs
 
 url: https://kit-walker-1945.github.io/cronicas_he
@@ -10,4 +10,6 @@ aux_links:
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
 
+# Set a path/url to a favicon that will be displayed by the browser
+favicon_ico: "skull_icon_234796.ico"
 
